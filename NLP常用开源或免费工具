@@ -1,0 +1,58 @@
+各种工具包的有效利用可以使研究者事半功倍。 
+以下是NLP版版友们提供整理的NLP研究工具包。 
+同时欢迎大家提供更多更好用的工具包，造福国内的NLP研究。 
+  
+*NLP Toolbox 
+   CLT http://complingone.georgetown.edu/~linguist/compling.html 
+   GATE http://gate.ac.uk/ 
+   Natural Language Toolkit(NLTK) http://nltk.org 
+   MALLET http://mallet.cs.umass.edu/index.php/Main_Page 
+   OpenNLP http://opennlp.sourceforge.net/ 
+  
+*English Stemmer 
+   Snowball http://snowball.tartarus.org/ 
+  
+*English POS Tagger 
+   Stanford POS Tagger http://nlp.stanford.edu/software/tagger.shtml 
+   TreeTagger http://www.ims.uni-stuttgart.de/projekte/corplex/TreeTagger/ 
+   TnT http://www.coli.uni-saarland.de/~thorsten/tnt/ 
+  
+*English&Chinese Parser 
+   Stanford Parser http://nlp.stanford.edu/software/lex-parser.shtml 
+   Berkeley Parser http://nlp.cs.berkeley.edu/Main.html#Parsing 
+  
+*English Keyphrase Extractor 
+   KEA http://www.nzdl.org/Kea/index_old.html 
+    
+*English Name Entity Recognizer 
+   Stanford NER http://nlp.stanford.edu/software/CRF-NER.shtml 
+  
+*Chinese Word Segmentator 
+   中科院ICTCLAS http://www.nlp.org.cn/project/project.php?proj_id=6 
+   Stanford Word Segmenter http://nlp.stanford.edu/software/segmenter.shtml 
+  
+*Topic Modeling Tools 
+   Matlab http://psiexp.ss.uci.edu/research/programs_data/toolbox.htm 
+   GibbsLDA++ http://gibbslda.sourceforge.net/ 
+   GLDA http://code.google.com/p/glda/ 
+  
+*Conditional Random Fields 
+   FlexCRFs http://flexcrfs.sourceforge.net/ 含有MPI并行版本。 
+   CRF++  http://crfpp.sourFceforge.net/ 
+   CRF Package http://crf.sourceforge.net/ 
+   CRF Matlab http://www.cs.ubc.ca/~murphyk/Software/CRFall.zip 
+   CRFSuit http://www.chokkan.org/software/crfsuite/ 
+   SGD with CRF http://leon.bottou.org/projects/sgd 
+   HCRF http://sourceforge.net/projects/hcrf/ 
+  
+*Support Vector Machine  
+   LIBSVM http://www.csie.ntu.edu.tw/~cjlin/libsvm/ 
+   LIBLINEAR http://www.csie.ntu.edu.tw/~cjlin/liblinear/ 
+   Pegasos http://www.cs.huji.ac.il/~shais/code/index.html 
+  
+*Search Engines 
+   Lucene http://lucene.apache.org/ 
+   中科院FirteX http://www.firtex.org/ 
+  
+*Machine Learning and Data Mining Toolbox 
+   Weka http://www.cs.waikato.ac.nz/ml/weka/ 
